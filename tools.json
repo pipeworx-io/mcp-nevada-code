@@ -1,0 +1,18 @@
+[
+  {
+    "name": "nv_revised_statute",
+    "description": "Get the FULL TEXT of a section of the Nevada Revised Statutes — Nevada state law — by citation. \"NRS 200.010\" defines murder. Returns the statutory text. Keyless. Use for \"what does NRS 484C.110 say\" or to check a Nevada statute a case relies on.",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "section": {
+          "type": "string",
+          "description": "Section as cited, e.g. \"200.010\" (murder) or \"484C.110\" (DUI). Chapter is the part before the dot."
+        }
+      },
+      "required": [
+        "section"
+      ]
+    }
+  }
+]
