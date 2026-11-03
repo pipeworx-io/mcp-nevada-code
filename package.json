@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-nevada-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Nevada Revised Statutes — state statutes by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "nevada-code",
     "gatewaySlug": "nevada-code",
-    "sourceHash": "v1-9b2b92c3d3b456202ef981091589a266ad447f23f1a4137cec2bda866eb94ad9",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-179a6c61544e4fa48c4da20ad8ef93431fbad8bb28f9b823b8c84c0b3b9a95b0",
+    "sourceCommit": "56cf550e46fed96c0101a3877ccaf8357eecf016"
   }
 }
